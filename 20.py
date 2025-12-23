@@ -8,6 +8,8 @@ class Solution:
         a = []
         for i in s:
             if i in pair:
+                if not a:
+                    return False
                 b = a.pop()
                 if b != pair[i]:
                     return False
@@ -17,3 +19,4 @@ class Solution:
             return True
         else:
             return False
+
