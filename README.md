@@ -3,4 +3,4 @@
 ## 📚 Môn: Computational Thinking
 ## 👨‍🎓 Sinh viên: Hoàng Như Hải 25020138
 
-*Repo này lưu trữ bài tập cá nhân.*
+![LeetCode Stats](https://leetcard.jacoblin.cool/hihongg?theme=dark&font=source%20code%20pro&ext=heatmap)
